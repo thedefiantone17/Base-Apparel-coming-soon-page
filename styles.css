@@ -161,6 +161,11 @@ button:hover{
 }
 
 @media screen and (max-width: 600px){
+    
+    input{
+        width:97%;
+    }
+    
     h1{
         font-size: 40px;
     }
